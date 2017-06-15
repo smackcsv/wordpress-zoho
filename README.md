@@ -1,10 +1,14 @@
 # zoho-wordpress
-=== Zoho Wordpress ===
-Contributors: smackcoders
-Contributors Link: https://www.smackcoders.com/wp-leads-builder-any-crm-pro.html
-Mirror Link: https://wordpress.org/plugins/wp-zoho-crm
-UpgradedPlugin: https://wordpress.org/plugins/wp-leads-builder-any-crm/
 
+=== Zoho Wordpress ===
+
+Contributors: smackcoders
+
+Contributors Link: https://www.smackcoders.com/wp-leads-builder-any-crm-pro.html
+
+Mirror Link: https://wordpress.org/plugins/wp-zoho-crm
+
+Upgraded Plugin: https://wordpress.org/plugins/wp-leads-builder-any-crm/
 
 == Description ==
 
